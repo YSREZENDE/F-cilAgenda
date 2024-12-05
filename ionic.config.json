@@ -1,0 +1,7 @@
+{
+  "name": "FacilAgenda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
